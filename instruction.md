@@ -21,3 +21,6 @@
 
 ## WEB ссылки
 Текст [пример ссылки](http.example.com "Всплывающая подсказка")
+
+## Цветной текст
+<span style="color:blue">some *blue* text</span>
